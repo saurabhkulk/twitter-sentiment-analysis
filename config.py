@@ -1,5 +1,5 @@
-consumer_key='q5SHrliEYY1GJvUiKIL48XNqE'
-consumer_secret='kVzFGYJdJLKkiegkEmy3xKXIHBQ9bKPvUn4oHQHdj4cN2LVlGd'
+consumer_key=''
+consumer_secret=''
 
-access_token='867507344044937217-tVHbwgbAtYNWaRxYHifkGMWqNNJdznz'
-access_secret='NWPLuzdObcHdYSxan0ENvDIygDVwobh17qMFoIcSNVNBR'
+access_token=''
+access_secret=''
